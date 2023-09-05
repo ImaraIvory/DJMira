@@ -46,6 +46,13 @@ h2 {
     color:azure;
 }
 
+a {
+  color:white;
+}
+a.hover {
+  color:#f0f;
+}
+
 hr {
   height: 0%;
   color: black;
