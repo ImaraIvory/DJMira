@@ -1,5 +1,4 @@
 body {
-    /*background-image: url("MMP05867.jpg");*/
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: top center;
@@ -47,10 +46,19 @@ h2 {
 }
 
 a {
+  color: white;
+}
+
+a:visited {
   color:white;
 }
-a.hover {
-  color:#f0f;
+
+a:hover {
+  color:#f0f ;
+}
+
+a:active {
+  color: white;
 }
 
 hr {
