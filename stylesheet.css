@@ -10,10 +10,11 @@ body {
 h1 {
     color:#fff;
     font-size: 8vb;
-    position: auto;
+    position: center;
 }
 
 h2 {
+  position: center;
     color:#fff
 }
 .orb {
