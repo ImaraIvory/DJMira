@@ -8,7 +8,15 @@ body {
   }
 
 table {
-  margin-left: 6%;
+  margin: 2vb;
+  width: 100%;
+  text-align: center;
+}
+
+td {
+  color: azure;
+  font-size:10vb;
+  border: 0px;
 }
 
 .image-opaque {
